@@ -1,0 +1,35 @@
+body {
+    background-color: #53c0eb98;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+ h1 {
+    color: #db6b1f;
+    font-size: 24px;
+    margin-bottom: 20px;
+ }
+ .miParrafo{
+    color: #5a4e4e;
+    font-size: 16px;
+    margin-bottom: 20px;
+ }
+
+ button{
+    background-color: #3b2110;
+    border-radius: 50px;
+    border: none;
+    color: rgb(255, 254, 254);
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+ }
+
+ button:hover{
+    background-color: #db9d40;
+ }
